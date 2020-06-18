@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://pacific-reef-37638.herokuapp.com/v1/task/';
+  var apiRoot = 'https://morning-depths-95847.herokuapp.com/v1/trello/';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
